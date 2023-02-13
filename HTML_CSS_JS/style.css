@@ -1,0 +1,41 @@
+body {
+  background-color: black;
+}
+
+div {
+  color: blue;
+}
+
+.thumbnail {
+  width: 300px;
+  border-radius: 20px;
+  margin: 10px;
+  display: block;
+}
+
+.title {
+  color: #ffffff;
+  font-size: 16px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.avatar {
+  width: 50px;
+  height: 50px;
+  border-radius: 25px;
+  display: inline-block;
+}
+
+.container {
+  width: 300px;
+  display: inline-block;
+  border: 0px solid #545454;
+  height: 100px;
+  padding: 0px;
+  margin: 0px;
+}
+
+.content {
+  color: #8f8585;
+}
