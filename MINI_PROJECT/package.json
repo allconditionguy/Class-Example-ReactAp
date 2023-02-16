@@ -1,0 +1,37 @@
+{
+  "name": "school_ms",
+  "version": "1.0.0",
+  "description": "DCIT_205 project work",
+  "main": "index.js",
+  "author": "Manuel_dev",
+  "license": "MIT",
+  "dependencies": {
+    "@types/express": "^4.17.17",
+    "@types/node": "^18.13.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.9.1"
+  },
+  "scripts": {
+    "dev": "nodemon ./src/server.ts",
+    "start": "node ./dist/server.js",
+    "build": "tsc -p ."
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^4.9.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manuel2u/DCIT-205-Mini-Project.git"
+  },
+  "keywords": [
+    "js",
+    "nodejs",
+    "express.js"
+  ],
+  "bugs": {
+    "url": "https://github.com/Manuel2u/DCIT-205-Mini-Project/issues"
+  },
+  "homepage": "https://github.com/Manuel2u/DCIT-205-Mini-Project#readme"
+}
