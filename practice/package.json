@@ -1,0 +1,14 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "sample project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anthony Barker - 10981589",
+  "license": "ISC",
+  "dependencies": {
+    "upper-case": "^2.0.2"
+  }
+}

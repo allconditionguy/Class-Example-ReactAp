@@ -1,0 +1,15 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "first pesonal attempt",
+  "main": "app.js",
+  "scripts": {
+    "test": "just a normal test"
+  },
+  "author": "Anthony Barker",
+  "license": "ISC",
+  "dependencies": {
+    "formidable": "^2.1.1",
+    "upper-case": "^2.0.2"
+  }
+}
